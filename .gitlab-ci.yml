@@ -1,0 +1,22 @@
+image: php:rc-fpm-alpine3.9
+
+before_script:
+  - "apk update -q && apk add -q openssh-client"
+build:
+  stage: build
+  script:
+    - "./scripts/lint.sh"
+  except:
+    - "master"
+  tags:
+    - "asprlng"
+
+deploy:
+  stage: deploy
+  script:
+    - "echo \"${SSH_PRIVATE_KEY}\" > temp_id_rsa"
+    - "./scripts/deploy.sh vita.sprlng.de"
+  only:
+    - "master"
+  tags:
+    - "asprlng"
