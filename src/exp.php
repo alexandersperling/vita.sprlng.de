@@ -9,7 +9,7 @@
 						<td>Geburtsort</td><td>R&uuml;dersdorf</td>
 					</tr>
 					<tr>
-						<td>Familienstand</td><td>ledig</td>
+						<td>Familienstand</td><td>verheiratet</td>
 					</tr>
 					<tr>
 						<td>Nationalit&auml;t</td><td>deutsch</td>
