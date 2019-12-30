@@ -1,2 +1,2 @@
-#!/bin/bash
-/usr/sbin/nginx && /usr/sbin/php5-fpm -F
+#!/bin/sh
+/usr/bin/supervisord -c /etc/supervisord.conf
