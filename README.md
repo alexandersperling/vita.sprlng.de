@@ -16,9 +16,9 @@ HTML,CSS,PHP,JS
 ``` bash
 docker build -t vita .
 ```
-3. run the following command to start the container and expose its port 8080 to your localhost port 80
+3. run the following command to start the container and expose its port 8082 to your localhost port 80
 ``` bash
-docker run -d -p 80:8080 -v /path/to/the/repo/:/var/www/vita vita
+docker run -d -p 80:8080 -v /path/to/the/src/code/folder:/var/www/vita vita
 ```
 
 ## TO DO

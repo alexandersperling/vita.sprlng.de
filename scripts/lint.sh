@@ -1,8 +1,7 @@
 #!/bin/sh
 
-for file in  $(ls src/*.php)
+for FILE in $(ls src/*.php)
 do
-	cho "linting $file"
-	php -l "$file"
+	echo "linting $FILE"
+	php -l "$FILE"
 done
-
