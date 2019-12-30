@@ -17,6 +17,7 @@ deploy:
     - "./scripts/deploy.sh vita.sprlng.de"
   only:
     - "master"
+  when: manual
 
 build-docker-image:
   image: docker:latest
