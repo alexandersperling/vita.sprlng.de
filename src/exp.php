@@ -16,8 +16,23 @@
 					</tr>
 					<tr><td></td><td></td></tr>
 					<tr><th colspan="2">Beruflicher Werdegang</tr>
+					<tr id="fuentis" class="row">
+						<td>03.2020 - aktuell</td>
+						<td>Development Operations Engineer- <i>fuentis AG</i><i class="icons material-icons">expand_more</i></td>
+					</tr>
+					<tr>
+						<td id="exp5" colspan="2">
+							<div>
+								Automatisierung und Betreuung von Cloudinfrastruktur in AWS<br />
+								Administration der Benutzerverwaltung und Rollenkonzepte in AWS<br />
+								Verwaltung von Microserviceinfrastruktur auf Basis von Kubernetes<br />
+								Konfiguration Jenkins CI/CD Pipelines<br />
+							</div>
+						</td>
+					</tr>
+
 					<tr id="hrs" class="row">
-						<td>05.2017 - aktuell</td>
+						<td>05.2017 - 02.2020</td>
 						<td>Cloud Solution Engineer - <i>HRS Innovation HUB</i><i class="icons material-icons">expand_more</i></td>
 					</tr>
 					<tr>
