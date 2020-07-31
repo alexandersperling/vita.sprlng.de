@@ -5,7 +5,7 @@
 						<td colspan="2">Linux (Debian, CentOS)</td>
 					</tr>
 					<tr>
-						<td colspan="2">Amazon Web Services (S3, Cloudfront, ECS, EC2)</td>
+						<td colspan="2">Amazon Web Services (S3, Cloudfront, ECS, EC2, Lambda, SNS, SQS, EKS, IAM)</td>
 					</tr>
 					<tr>
 						<td colspan="2">Gitlab, Github</td>

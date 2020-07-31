@@ -11,4 +11,8 @@ $(document).ready(function(){
     $("#hrs").click(function(){
         $("#exp4").toggle();
     });
+    $("#fuentis").click(function(){
+        $("#exp5").toggle();
+    });
+
 });
