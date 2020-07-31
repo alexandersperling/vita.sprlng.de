@@ -19,6 +19,9 @@
 				<br /><br />
 				alexander [at] sprlng [dot] de - <a href="Alexander_Reinelt_pub.asc"><i>PGP</i></a><br />
 				<a href="http://sprlng.de"> sprlng.de</a>
+				<br />
+				<br />
+				<a href="cv.pdf"><i>Download as PDF</i></a><br />
 			</div>
 			<br />
 			<div id="content">

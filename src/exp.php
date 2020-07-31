@@ -23,10 +23,13 @@
 					<tr>
 						<td id="exp5" colspan="2">
 							<div>
-								Automatisierung und Betreuung von Cloudinfrastruktur in AWS<br />
-								Administration der Benutzerverwaltung und Rollenkonzepte in AWS<br />
-								Verwaltung von Microserviceinfrastruktur auf Basis von Kubernetes<br />
-								Konfiguration Jenkins CI/CD Pipelines<br />
+								Aufbau, Konfiguration, Management von Microserviceinfrastrutktur auf Basis von Kubernetes (AWS-EKS) mittels terraform<br />
+								Administration der Benutzerverwaltung und Rollenkonzepte in AWS mittels terraform<br />
+								Konfiguration Codecommit (Repositories, Approval Rules)<br />
+								Erstellen von Jenkins Pipelines via Jenkinsfile<br />
+								Installation, Update, Management Jenkins (Updates, Plugins, Volumes, Slaves)<br />
+								Installation, Wartung, Updates, Support von Kundensystemen<br />
+								Automatisierung von Build, Release und Deployprozessen f&uuml;r für Projekte basierend auf Java<br />
 							</div>
 						</td>
 					</tr>
