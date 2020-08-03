@@ -21,7 +21,8 @@
 				<a href="http://sprlng.de"> sprlng.de</a>
 				<br />
 				<br />
-				<a href="cv.pdf"><i>Download as PDF</i></a><br />
+				Download as PDF <br />
+				<a href="cv_de.pdf"><i>de</i></a> || <a href="cv_en.pdf"><i>en</i></a><br />
 			</div>
 			<br />
 			<div id="content">
