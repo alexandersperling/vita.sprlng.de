@@ -1,4 +1,4 @@
-image: php:rc-fpm-alpine3.9
+image: php:fpm-alpine3.13
 
 before_script:
   - "apk update -q && apk add -q openssh-client"

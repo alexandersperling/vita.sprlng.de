@@ -16,8 +16,22 @@
 					</tr>
 					<tr><td></td><td></td></tr>
 					<tr><th colspan="2">Beruflicher Werdegang</tr>
+					<tr id="db" class="row">
+						<td>01.2021 - aktuell</td>
+						<td>Cloud Administrator- <i>DB Systel GmbH</i><i class="icons material-icons">expand_more</i></td>
+					</tr>
+					<tr>
+						<td id="exp6" colspan="2">
+							<div>
+								Aufbau, Konfiguration, Management von Cloudinfrastruktur in AWS mit AWS CDK in Typescript<br />
+								Erstellung, Aktualisierung, Anpassung von Gitlab Pipelines
+								2nd Level Kundensupport für Cloudinfrastruktur
+							</div>
+						</td>
+					</tr>
+
 					<tr id="fuentis" class="row">
-						<td>03.2020 - aktuell</td>
+						<td>03.2020 - 12.2020</td>
 						<td>Development Operations Engineer- <i>fuentis AG</i><i class="icons material-icons">expand_more</i></td>
 					</tr>
 					<tr>
