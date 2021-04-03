@@ -14,5 +14,7 @@ $(document).ready(function(){
     $("#fuentis").click(function(){
         $("#exp5").toggle();
     });
-
+    $("#db").click(function(){
+        $("#exp6").toggle();
+    });
 });
